@@ -6,3 +6,4 @@ Includes:
 
 1) DFS-based maze creation 2) Pair matching based on the gale-shapley algorithm 3) A-priory algorithm implementation
 
+![alt tag](http://fsdet.dmst.aueb.gr/dmst.jpg)
