@@ -8,12 +8,12 @@ import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-n", "--numeric",
-                    action="store_true", default=False)  # args.numeric -n for numeric , optional
-parser.add_argument("-p", "--percentage", action="store_true", default=False)  # args.percentage , optional
-parser.add_argument("-o", "--output", type=str)  # args.output, optional
+                    action="store_true", default=False) 
+parser.add_argument("-p", "--percentage", action="store_true", default=False)  
+parser.add_argument("-o", "--output", type=str) 
 
-parser.add_argument("support", type=int)   # args.support , mandatory
-parser.add_argument("filename")  # args.filename , mandatory
+parser.add_argument("support", type=int)   
+parser.add_argument("filename")  
 
 args = parser.parse_args()
 
