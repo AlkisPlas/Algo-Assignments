@@ -1,8 +1,10 @@
 #**Gale-Shapley Algorithm**
 
-function stableMatching {
+function stableMatching 
+{
     Initialize all m ∈ M and w ∈ W to free
-    while ∃ free man m who still has a woman w to propose to {
+    while ∃ free man m who still has a woman w to propose to 
+    {
        w = highest ranked woman to whom m has not yet proposed
        if w is free
          (m, w) become engaged
