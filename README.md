@@ -1,9 +1,10 @@
 # Algo-Assignments
 
-Projects done for the networks, algorithms and data structures course during the fourth semester in the department of management science and technology in AUEB.
+Assignments done for the [Algorithms and Data Structures](https://www.dept.aueb.gr/en/dmst/content/algorithms-and-data-structures) module.  
 
 Includes:
+1) DFS-based maze creation 
+2) Pair matching based on the gale-shapley algorithm 
+3) A-priory algorithm implementation
 
-1) DFS-based maze creation 2) Pair matching based on the gale-shapley algorithm 3) A-priory algorithm implementation
-
-![alt tag](http://fsdet.dmst.aueb.gr/dmst.jpg)
+Department of management science and technology - AUEB
